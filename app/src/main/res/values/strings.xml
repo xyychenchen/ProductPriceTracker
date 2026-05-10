@@ -110,4 +110,13 @@
         Haven't found some strings? There's more at
         https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
     -->
+
+    <plurals name="delete_groups">
+        <item quantity="one">%d group</item>
+        <item quantity="other">%d groups</item>
+    </plurals>
+    
+    <string name="add_contacts">Add contacts</string>
+    <string name="add_to_group">Add to group</string>
+
 </resources>
