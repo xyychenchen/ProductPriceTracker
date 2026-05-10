@@ -8,8 +8,8 @@ import org.fossify.commons.extensions.beGone
 import org.fossify.commons.extensions.getAlertDialogBuilder
 import org.fossify.commons.extensions.setupDialogStuff
 import org.fossify.commons.models.contacts.SocialAction
-import org.fossify.contacts.databinding.DialogChooseSocialBinding
-import org.fossify.contacts.databinding.ItemChooseSocialBinding
+import com.product.pricetracker.databinding.DialogChooseSocialBinding
+import com.product.pricetracker.databinding.ItemChooseSocialBinding
 import org.fossify.contacts.extensions.getPackageDrawable
 
 class ChooseSocialDialog(val activity: Activity, actions: ArrayList<SocialAction>, val callback: (action: SocialAction) -> Unit) {

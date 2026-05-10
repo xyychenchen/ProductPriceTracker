@@ -23,8 +23,8 @@ import org.fossify.commons.extensions.*
 import org.fossify.commons.helpers.*
 import org.fossify.commons.models.PhoneNumber
 import org.fossify.commons.models.contacts.*
-import org.fossify.contacts.R
-import org.fossify.contacts.databinding.*
+import com.product.pricetracker.R
+import com.product.pricetracker.databinding.*
 import org.fossify.contacts.dialogs.ChooseSocialDialog
 import org.fossify.contacts.dialogs.ManageVisibleFieldsDialog
 import org.fossify.contacts.extensions.*

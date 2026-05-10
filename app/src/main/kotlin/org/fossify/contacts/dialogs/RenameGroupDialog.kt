@@ -6,7 +6,7 @@ import org.fossify.commons.extensions.*
 import org.fossify.commons.helpers.ContactsHelper
 import org.fossify.commons.helpers.ensureBackgroundThread
 import org.fossify.commons.models.contacts.Group
-import org.fossify.contacts.databinding.DialogRenameGroupBinding
+import com.product.pricetracker.databinding.DialogRenameGroupBinding
 
 class RenameGroupDialog(val activity: BaseSimpleActivity, val group: Group, val callback: () -> Unit) {
     init {

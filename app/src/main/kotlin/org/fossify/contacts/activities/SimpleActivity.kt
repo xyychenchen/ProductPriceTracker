@@ -8,7 +8,7 @@ import org.fossify.commons.activities.BaseSimpleActivity
 import org.fossify.commons.extensions.getColoredDrawableWithColor
 import org.fossify.commons.extensions.getProperTextColor
 import org.fossify.commons.helpers.KEY_PHONE
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.helpers.KEY_MAILTO
 import org.fossify.contacts.helpers.LOCATION_CONTACTS_TAB
 import org.fossify.contacts.helpers.LOCATION_FAVORITES_TAB

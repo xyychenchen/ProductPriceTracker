@@ -28,7 +28,7 @@ import org.fossify.commons.helpers.ensureBackgroundThread
 import org.fossify.commons.models.RadioItem
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.contacts.BuildConfig
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.activities.EditContactActivity
 import org.fossify.contacts.activities.SimpleActivity
 import org.fossify.contacts.activities.ViewContactActivity

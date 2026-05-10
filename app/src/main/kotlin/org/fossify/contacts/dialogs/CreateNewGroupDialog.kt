@@ -10,8 +10,8 @@ import org.fossify.commons.helpers.ensureBackgroundThread
 import org.fossify.commons.models.RadioItem
 import org.fossify.commons.models.contacts.ContactSource
 import org.fossify.commons.models.contacts.Group
-import org.fossify.contacts.R
-import org.fossify.contacts.databinding.DialogCreateNewGroupBinding
+import com.product.pricetracker.R
+import com.product.pricetracker.databinding.DialogCreateNewGroupBinding
 
 class CreateNewGroupDialog(val activity: BaseSimpleActivity, val callback: (newGroup: Group) -> Unit) {
     init {

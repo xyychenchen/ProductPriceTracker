@@ -36,7 +36,7 @@ import org.fossify.commons.interfaces.StartReorderDragListener
 import org.fossify.commons.models.RadioItem
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.commons.views.MyRecyclerView
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.activities.SimpleActivity
 import org.fossify.contacts.activities.ViewContactActivity
 import org.fossify.contacts.dialogs.CreateNewGroupDialog

@@ -5,7 +5,7 @@ import org.fossify.commons.extensions.getAlertDialogBuilder
 import org.fossify.commons.extensions.setupDialogStuff
 import org.fossify.commons.helpers.*
 import org.fossify.commons.views.MyAppCompatCheckbox
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.extensions.config
 
 class ManageVisibleFieldsDialog(val activity: BaseSimpleActivity, val callback: (hasSomethingChanged: Boolean) -> Unit) {

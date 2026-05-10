@@ -8,7 +8,7 @@ import org.fossify.commons.extensions.getProperTextColor
 import org.fossify.commons.helpers.TAB_CONTACTS
 import org.fossify.commons.helpers.TAB_FAVORITES
 import org.fossify.commons.helpers.TAB_GROUPS
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.activities.SimpleActivity
 import org.fossify.contacts.fragments.MyViewPagerFragment
 

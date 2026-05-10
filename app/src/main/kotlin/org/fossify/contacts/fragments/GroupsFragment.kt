@@ -5,8 +5,8 @@ import android.util.AttributeSet
 import org.fossify.commons.helpers.TAB_GROUPS
 import org.fossify.contacts.activities.MainActivity
 import org.fossify.contacts.activities.SimpleActivity
-import org.fossify.contacts.databinding.FragmentGroupsBinding
-import org.fossify.contacts.databinding.FragmentLayoutBinding
+import com.product.pricetracker.databinding.FragmentGroupsBinding
+import com.product.pricetracker.databinding.FragmentLayoutBinding
 import org.fossify.contacts.dialogs.CreateNewGroupDialog
 
 class GroupsFragment(context: Context, attributeSet: AttributeSet) : MyViewPagerFragment<MyViewPagerFragment.FragmentLayout>(context, attributeSet) {

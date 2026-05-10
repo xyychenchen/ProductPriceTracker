@@ -7,10 +7,10 @@ import org.fossify.commons.helpers.ContactsHelper
 import org.fossify.commons.helpers.ensureBackgroundThread
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.commons.models.contacts.ContactSource
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.activities.SimpleActivity
 import org.fossify.contacts.adapters.FilterContactSourcesAdapter
-import org.fossify.contacts.databinding.DialogManageAutomaticBackupsBinding
+import com.product.pricetracker.databinding.DialogManageAutomaticBackupsBinding
 import org.fossify.contacts.extensions.config
 import java.io.File
 

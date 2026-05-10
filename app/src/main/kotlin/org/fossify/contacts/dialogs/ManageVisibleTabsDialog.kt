@@ -7,7 +7,7 @@ import org.fossify.commons.helpers.TAB_CONTACTS
 import org.fossify.commons.helpers.TAB_FAVORITES
 import org.fossify.commons.helpers.TAB_GROUPS
 import org.fossify.commons.views.MyAppCompatCheckbox
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.extensions.config
 import org.fossify.contacts.helpers.ALL_TABS_MASK
 

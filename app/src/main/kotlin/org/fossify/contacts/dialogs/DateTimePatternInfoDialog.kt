@@ -3,7 +3,7 @@ package org.fossify.contacts.dialogs
 import org.fossify.commons.activities.BaseSimpleActivity
 import org.fossify.commons.extensions.getAlertDialogBuilder
 import org.fossify.commons.extensions.setupDialogStuff
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 
 class DateTimePatternInfoDialog(activity: BaseSimpleActivity) {
 

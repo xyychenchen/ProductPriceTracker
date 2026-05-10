@@ -20,8 +20,8 @@ import org.fossify.commons.models.contacts.Contact
 import org.fossify.commons.views.MyAppCompatCheckbox
 import org.fossify.commons.views.MyRecyclerView
 import org.fossify.contacts.activities.SimpleActivity
-import org.fossify.contacts.databinding.ItemAddFavoriteWithNumberBinding
-import org.fossify.contacts.databinding.ItemAddFavoriteWithoutNumberBinding
+import com.product.pricetracker.databinding.ItemAddFavoriteWithNumberBinding
+import com.product.pricetracker.databinding.ItemAddFavoriteWithoutNumberBinding
 import org.fossify.contacts.extensions.config
 
 class SelectContactsAdapter(

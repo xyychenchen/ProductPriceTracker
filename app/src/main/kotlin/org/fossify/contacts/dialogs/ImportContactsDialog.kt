@@ -8,9 +8,9 @@ import org.fossify.commons.extensions.toast
 import org.fossify.commons.helpers.ContactsHelper
 import org.fossify.commons.helpers.SMT_PRIVATE
 import org.fossify.commons.helpers.ensureBackgroundThread
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.activities.SimpleActivity
-import org.fossify.contacts.databinding.DialogImportContactsBinding
+import com.product.pricetracker.databinding.DialogImportContactsBinding
 import org.fossify.contacts.extensions.config
 import org.fossify.contacts.extensions.showContactSourcePicker
 import org.fossify.contacts.helpers.VcfImporter

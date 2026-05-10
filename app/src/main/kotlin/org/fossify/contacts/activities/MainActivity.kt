@@ -21,9 +21,9 @@ import org.fossify.commons.models.RadioItem
 import org.fossify.commons.models.Release
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.contacts.BuildConfig
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.adapters.ViewPagerAdapter
-import org.fossify.contacts.databinding.ActivityMainBinding
+import com.product.pricetracker.databinding.ActivityMainBinding
 import org.fossify.contacts.dialogs.ChangeSortingDialog
 import org.fossify.contacts.dialogs.FilterContactSourcesDialog
 import org.fossify.contacts.extensions.config

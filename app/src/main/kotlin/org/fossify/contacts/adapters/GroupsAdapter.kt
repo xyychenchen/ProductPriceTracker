@@ -17,9 +17,9 @@ import org.fossify.commons.helpers.TAB_GROUPS
 import org.fossify.commons.helpers.ensureBackgroundThread
 import org.fossify.commons.models.contacts.Group
 import org.fossify.commons.views.MyRecyclerView
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.activities.SimpleActivity
-import org.fossify.contacts.databinding.ItemGroupBinding
+import com.product.pricetracker.databinding.ItemGroupBinding
 import org.fossify.contacts.dialogs.RenameGroupDialog
 import org.fossify.contacts.extensions.config
 import org.fossify.contacts.interfaces.RefreshContactsListener

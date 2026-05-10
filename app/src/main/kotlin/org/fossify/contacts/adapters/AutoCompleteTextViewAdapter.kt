@@ -16,7 +16,7 @@ import org.fossify.commons.extensions.normalizeString
 import org.fossify.commons.helpers.SimpleContactsHelper
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.contacts.activities.SimpleActivity
-import org.fossify.contacts.databinding.ItemAutocompleteNameNumberBinding
+import com.product.pricetracker.databinding.ItemAutocompleteNameNumberBinding
 
 class AutoCompleteTextViewAdapter(
     val activity: SimpleActivity,

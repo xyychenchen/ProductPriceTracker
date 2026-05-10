@@ -13,7 +13,7 @@ import org.fossify.commons.extensions.*
 import org.fossify.commons.helpers.*
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.contacts.BuildConfig
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.helpers.AUTOMATIC_BACKUP_REQUEST_CODE
 import org.fossify.contacts.helpers.Config
 import org.fossify.contacts.helpers.VcfExporter

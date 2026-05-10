@@ -7,7 +7,7 @@ import org.fossify.commons.helpers.ensureBackgroundThread
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.contacts.activities.SimpleActivity
 import org.fossify.contacts.adapters.SelectContactsAdapter
-import org.fossify.contacts.databinding.DialogSelectContactBinding
+import com.product.pricetracker.databinding.DialogSelectContactBinding
 import java.util.Locale
 
 class SelectContactsDialog(

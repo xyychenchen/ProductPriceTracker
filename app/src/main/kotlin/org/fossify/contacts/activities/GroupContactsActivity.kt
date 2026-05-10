@@ -12,9 +12,9 @@ import org.fossify.commons.helpers.NavigationIcon
 import org.fossify.commons.helpers.ensureBackgroundThread
 import org.fossify.commons.models.contacts.Contact
 import org.fossify.commons.models.contacts.Group
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.adapters.ContactsAdapter
-import org.fossify.contacts.databinding.ActivityGroupContactsBinding
+import com.product.pricetracker.databinding.ActivityGroupContactsBinding
 import org.fossify.contacts.dialogs.SelectContactsDialog
 import org.fossify.contacts.extensions.handleGenericContactClick
 import org.fossify.contacts.extensions.viewContact

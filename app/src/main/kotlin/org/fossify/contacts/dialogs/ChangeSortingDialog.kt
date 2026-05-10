@@ -5,8 +5,8 @@ import org.fossify.commons.extensions.beGoneIf
 import org.fossify.commons.extensions.getAlertDialogBuilder
 import org.fossify.commons.extensions.setupDialogStuff
 import org.fossify.commons.helpers.*
-import org.fossify.contacts.R
-import org.fossify.contacts.databinding.DialogChangeSortingBinding
+import com.product.pricetracker.R
+import com.product.pricetracker.databinding.DialogChangeSortingBinding
 import org.fossify.contacts.extensions.config
 
 class ChangeSortingDialog(val activity: BaseSimpleActivity, private val showCustomSorting: Boolean = false, private val callback: () -> Unit) {

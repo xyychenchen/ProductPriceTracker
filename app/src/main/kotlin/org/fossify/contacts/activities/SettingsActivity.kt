@@ -10,8 +10,8 @@ import org.fossify.commons.dialogs.RadioGroupDialog
 import org.fossify.commons.extensions.*
 import org.fossify.commons.helpers.*
 import org.fossify.commons.models.RadioItem
-import org.fossify.contacts.R
-import org.fossify.contacts.databinding.ActivitySettingsBinding
+import com.product.pricetracker.R
+import com.product.pricetracker.databinding.ActivitySettingsBinding
 import org.fossify.contacts.dialogs.ExportContactsDialog
 import org.fossify.contacts.dialogs.ManageAutoBackupsDialog
 import org.fossify.contacts.dialogs.ManageVisibleFieldsDialog

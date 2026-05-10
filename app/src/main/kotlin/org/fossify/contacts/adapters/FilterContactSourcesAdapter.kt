@@ -9,7 +9,7 @@ import org.fossify.commons.extensions.getProperTextColor
 import org.fossify.commons.helpers.SMT_PRIVATE
 import org.fossify.commons.models.contacts.ContactSource
 import org.fossify.contacts.activities.SimpleActivity
-import org.fossify.contacts.databinding.ItemFilterContactSourceBinding
+import com.product.pricetracker.databinding.ItemFilterContactSourceBinding
 
 class FilterContactSourcesAdapter(
     val activity: SimpleActivity,

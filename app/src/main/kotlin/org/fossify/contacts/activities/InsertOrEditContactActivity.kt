@@ -13,9 +13,9 @@ import org.fossify.commons.databinding.BottomTablayoutItemBinding
 import org.fossify.commons.extensions.*
 import org.fossify.commons.helpers.*
 import org.fossify.commons.models.contacts.Contact
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.adapters.ViewPagerAdapter
-import org.fossify.contacts.databinding.ActivityInsertEditContactBinding
+import com.product.pricetracker.databinding.ActivityInsertEditContactBinding
 import org.fossify.contacts.dialogs.ChangeSortingDialog
 import org.fossify.contacts.dialogs.FilterContactSourcesDialog
 import org.fossify.contacts.extensions.config

@@ -5,11 +5,11 @@ import org.fossify.commons.extensions.*
 import org.fossify.commons.helpers.ContactsHelper
 import org.fossify.commons.models.contacts.Group
 import org.fossify.commons.views.MyAppCompatCheckbox
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.activities.SimpleActivity
-import org.fossify.contacts.databinding.DialogSelectGroupsBinding
-import org.fossify.contacts.databinding.ItemCheckboxBinding
-import org.fossify.contacts.databinding.ItemTextviewBinding
+import com.product.pricetracker.databinding.DialogSelectGroupsBinding
+import com.product.pricetracker.databinding.ItemCheckboxBinding
+import com.product.pricetracker.databinding.ItemTextviewBinding
 
 class SelectGroupsDialog(val activity: SimpleActivity, val selectedGroups: ArrayList<Group>, val callback: (newGroups: ArrayList<Group>) -> Unit) {
     private val binding = DialogSelectGroupsBinding.inflate(activity.layoutInflater)

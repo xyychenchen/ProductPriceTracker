@@ -42,7 +42,7 @@ import org.fossify.commons.helpers.ContactsHelper
 import org.fossify.commons.helpers.letterBackgroundColors
 import org.fossify.commons.models.RadioItem
 import org.fossify.commons.models.contacts.Contact
-import org.fossify.contacts.R
+import com.product.pricetracker.R
 import org.fossify.contacts.extensions.shareContacts
 
 abstract class ContactActivity : SimpleActivity() {
