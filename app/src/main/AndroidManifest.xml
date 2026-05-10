@@ -171,7 +171,7 @@
             android:name=".activities.InsertOrEditContactActivity"
             android:configChanges="orientation"
             android:exported="true"
-            android:label="@string/select_contact">
+            android:label="@string/select_产品">
 
             <intent-filter>
                 <action android:name="android.intent.action.INSERT_OR_EDIT" />
