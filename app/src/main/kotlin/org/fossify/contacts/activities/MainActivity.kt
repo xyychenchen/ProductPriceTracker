@@ -20,7 +20,7 @@ import org.fossify.commons.models.FAQItem
 import org.fossify.commons.models.RadioItem
 import org.fossify.commons.models.Release
 import org.fossify.commons.models.contacts.Contact
-import org.fossify.contacts.BuildConfig
+import com.product.pricetracker.BuildConfig
 import com.product.pricetracker.R
 import org.fossify.contacts.adapters.ViewPagerAdapter
 import com.product.pricetracker.databinding.ActivityMainBinding
