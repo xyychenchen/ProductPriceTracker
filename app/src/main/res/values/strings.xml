@@ -119,4 +119,36 @@
     <string name="add_contacts">Add contacts</string>
     <string name="add_to_group">Add to group</string>
 
+
+    <string name="contact_source">Contact Source</string>
+    <string name="contacts">Contacts</string>
+    <string name="create_group">Create Group</string>
+    <string name="create_group_under_account">Create Group Under Account</string>
+    <string name="create_new_group">Create New Group</string>
+    <string name="export_contacts">Export Contacts</string>
+    <string name="export_contacts_to_vcf">Export Contacts To Vcf</string>
+    <string name="groups">Groups</string>
+    <string name="import_contacts">Import Contacts</string>
+    <string name="import_contacts_from_vcf">Import Contacts From Vcf</string>
+    <string name="import_contacts_from_vcf_pro">Import Contacts From Vcf Pro</string>
+    <string name="include_contact_sources">Include Contact Sources</string>
+    <string name="manage_shown_contact_fields">Manage Shown Contact Fields</string>
+    <string name="merge_duplicate_contacts">Merge Duplicate Contacts</string>
+    <string name="new_contact">New Contact</string>
+    <string name="no_contacts_with_emails">No Contacts With Emails</string>
+    <string name="no_contacts_with_phone_numbers">No Contacts With Phone Numbers</string>
+    <string name="no_group_created">No Group Created</string>
+    <string name="no_group_participants">No Group Participants</string>
+    <string name="no_groups">No Groups</string>
+    <string name="remove_from_group">Remove From Group</string>
+    <string name="select_contact">Select Contact</string>
+    <string name="send_email_to_contacts">Send Email To Contacts</string>
+    <string name="send_email_to_group">Send Email To Group</string>
+    <string name="send_sms_to_contacts">Send Sms To Contacts</string>
+    <string name="send_sms_to_group">Send Sms To Group</string>
+    <string name="show_contact_thumbnails">Show Contact Thumbnails</string>
+    <string name="show_only_contacts_with_numbers">Show Only Contacts With Numbers</string>
+    <string name="show_private_contacts">Show Private Contacts</string>
+    <string name="target_contact_source">Target Contact Source</string>
+
 </resources>
