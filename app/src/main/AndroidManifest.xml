@@ -16,10 +16,6 @@
         android:name="android.permission.USE_FINGERPRINT"
         tools:node="remove" />
 
-    <uses-feature
-        android:name=""
-        android:required="false" />
-
     <queries>
         <package android:name="org.fossify.contacts.debug" />
         <package android:name="org.fossify.contacts" />
