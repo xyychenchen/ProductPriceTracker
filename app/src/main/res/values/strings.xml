@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_launcher_name">产品价格速查</string>
+    <string name="address">备注信息</string>
+    <string name="street">详细描述</string>
+    <string name="neighborhood">规格尺寸</string>
+    <string name="city">分类</string>
+    <string name="postcode">SKU编号</string>
+    <string name="pobox">供应商</string>
+    <string name="region">地区</string>
+    <string name="country">来源国</string>
+    <string name="inserting">Inserting…</string>
+    <string name="updating">Updating…</string>
+    <string name="phone_storage">本地存储</string>
+    <string name="phone_storage_hidden">本地存储 (私有数据)</string>
+    <string name="company">品牌</string>
+    <string name="job_position">型号</string>
+    <string name="send_sms_to_产品">Send SMS to 产品</string>
+    <string name="send_email_to_产品">Send email to 产品</string>
+    <string name="send_sms_to_分类">Send SMS to 分类</string>
+    <string name="send_email_to_分类">Send email to 分类</string>
+    <string name="fields_empty">At least 1 field has to be filled out</string>
+    <string name="must_be_at_edit">You must be at the Edit screen to modify a 产品</string>
+
+    <!-- Placeholders -->
+    <string name="no_产品_with_emails">没有找到带邮箱的产品</string>
+    <string name="no_产品_with_phone_numbers">没有找到带价格的产品</string>
+
+    <string name="new_产品">添加产品</string>
+    <string name="select_产品">选择产品</string>
+    <string name="nickname">别名</string>
+    <string name="select_account">选择存储位置</string>
+
+    <!-- 分类 -->
+    <string name="no_分类">No 分类</string>
+    <string name="create_new_分类">Create a new 分类</string>
+    <string name="remove_from_分类">Remove from 分类</string>
+    <string name="no_分类_participants">This 分类 is empty</string>
+    <string name="add_产品">Add 产品</string>
+    <string name="no_分类_created">There are no 产品 分类 on the device</string>
+    <string name="create_分类">Create 分类</string>
+    <string name="add_to_分类">Add to 分类</string>
+    <string name="create_分类_under_account">Create 分类 under account</string>
+
+    <!-- Photo -->
+    <string name="remove_photo">Remove photo</string>
+    <string name="change_photo">Change photo</string>
+
+    <!-- Settings -->
+    <string name="show_phone_numbers">显示价格</string>
+    <string name="show_产品_thumbnails">Show 产品 thumbnails</string>
+    <string name="format_phone_numbers">Format 价格</string>
+    <string name="show_dialpad_button">Show a dialpad button on the main screen</string>
+    <string name="manage_shown_产品_fields">Manage shown 产品 fields</string>
+    <string name="产品">产品</string>
+    <string name="show_only_产品_with_numbers">Show only 产品 with 价格</string>
+    <string name="show_private_产品">Show private 产品 to Fossify Phone, Messages, and Calendar</string>
+    <string name="merge_duplicate_产品">Merge duplicate 产品</string>
+
+    <!-- Favorites -->
+    <string name="no_favorites">Seems like you haven\'t added any favorite 产品 yet.</string>
+    <string name="toggle_favorite">Toggle favorite</string>
+
+    <!-- Search -->
+    <string name="search_产品">Search 产品</string>
+    <string name="search_favorites">Search favorites</string>
+    <string name="search_分类">Search 分类</string>
+
+    <!-- Export / Import -->
+    <string name="import_产品">Import 产品</string>
+    <string name="export_产品">Export 产品</string>
+    <string name="import_产品_from_vcf">Import 产品 from a .vcf file</string>
+    <string name="import_产品_from_vcf_pro">Import 产品 from a .vcf file (Pro)</string>
+    <string name="export_产品_to_vcf">Export 产品 to a .vcf file</string>
+    <string name="target_产品_source">Target 产品 source</string>
+    <string name="include_产品_sources">Include 产品 sources</string>
+    <string name="filename_without_vcf">Filename (without .vcf)</string>
+
+    <!-- Dialpad -->
+    <string name="dialpad">Dialpad</string>
+    <string name="add_number_to_产品">Add number to 产品</string>
+
+    <!-- Visible fields -->
+    <string name="prefix">Prefix</string>
+    <string name="suffix">Suffix</string>
+    <string name="phone_numbers">价格</string>
+    <string name="emails">Emails</string>
+    <string name="addresses">Addresses</string>
+    <string name="structured_addresses">Structured addresses (edit mode)</string>
+    <string name="events">Events (birthdays, anniversaries)</string>
+    <string name="organization">Organization</string>
+    <string name="websites">Websites</string>
+    <string name="分类">分类</string>
+    <string name="产品_source">产品 source</string>
+    <string name="instant_messaging">Instant messaging (IM)</string>
+    <string name="ringtone">Ringtone</string>
+
+    <!-- Confirmation dialog -->
+    <string name="delete_from_all_sources">The 产品 will be removed from all 产品 sources.</string>
+
+    <plurals name="delete_分类">
+        <item quantity="one">%d 分类</item>
+        <item quantity="other">%d 分类</item>
+    </plurals>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">I want to change what fields are visible at 产品. Can I do it?</string>
+    <string name="faq_1_text">Yes, all you have to do is go in Settings -> Manage shown 产品 fields. There you can select what fields should be visible. Some of them are even disabled by default, so you might find some new ones there.</string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
+    -->
+</resources>
